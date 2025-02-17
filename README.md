@@ -21,6 +21,7 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FF0000)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Cobol-0D1117?&style=for-the-badge&logo=cobol&logoColor=white)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=224DFA&labelColor=0D1117)&nbsp;
